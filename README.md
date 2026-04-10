@@ -1,7 +1,7 @@
 # <p align="center">🐐 Mohamed | CR7 Elite Developer</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZueXAyZ3p6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHgmZXA9djFfaW50ZXJuYWxfZ2lmX2J5X2lkJmN0PWc/r1IMdmkhNDMGLi2t46/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/r1IMdmkhNDMGLi2t46/giphy.gif" width="400"/>
 </p>
 
 <h1 align="center">⚡ NO EXCUSES. JUST CODE. ⚡</h1>
@@ -10,48 +10,55 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=JavaScript+Developer;WhatsApp+Bot+Builder;Future+Full+Stack;CR7+Mentality+🔥"/>
 </p>
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="30" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" height="30" alt="safari logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+</div>
 
-### 🧠 About Me
+###
 
-```javascript
-class Developer {
-  constructor() {
-    this.name = "Mohamed";
-    this.role = "Future Pro Developer";
-    this.languages = ["JavaScript", "HTML", "CSS"];
-    this.currentFocus = "Building WhatsApp Bots 🤖";
-    this.mindset = "CR7 Discipline 🔥";
-  }
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YTNvYW5hNGl1ZjdmZjJ0cmlqbzQ3dTVtaGQzNXBoMWN3ZDc4enE0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/zgGrSqSi3SSqs/giphy.gif"  />
+</div>
 
-  train() {
-    return "Code. Improve. Repeat.";
-  }
-}
-💻 Tech Arsenal
-​<p align="left">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnodedotjs%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/HTML5-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/CSS3-1572B6%3Fstyle%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E34F26%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-</p>
-​📊 GitHub Stats
-​<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmohame15d%26show_icons%3Dtrue%26theme%3Dtokyonight%26count_private%3Dtrue" />
+###
 
+<br clear="both">
 
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dmohame15d%26theme%3Dtokyonight" />
-</p>
-​⚽ CR7 Mindset
-​"Talent without hard work is nothing."
+<img src="https://raw.githubusercontent.com/mohame15d/mohame15d/output/snake.svg" alt="Snake animation" />
 
-while(true) {
-  code();
-  learn();
-  improve();
-  repeat(); // SIUUUUU!
-}
-<p align="center">
-<b>🔥 Built Different. 🐐</b>
-</p>
+###
+
+<div align="left">
+  <a href="https://instagram.com/mohame15d_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https//gmail.com/mohamedalimansour944@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="wa.me+4915750442353" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://x.com/Moham15dS" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Mohame15d&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
+
+###
